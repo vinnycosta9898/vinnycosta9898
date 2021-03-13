@@ -1,5 +1,5 @@
 # vinnycosta
-### Vinicius Costa - [Data Scientist] 👋
+### Vinicius Costa - Data Scientist
 
 ## Industrial Mathematics student fascinated by Data Science and IA.
 
