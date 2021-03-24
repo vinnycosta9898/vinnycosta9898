@@ -1,16 +1,15 @@
-# vinnycosta
-### Vinicius Costa - Data Scientist
+# Vinicius Costa - Data Scientist
 
 ## Industrial Mathematics student fascinated by Data Science and IA.
 
 - 📈 I’m constantly learning and Improving my skills 🤣
 - 📊 I’m looking to collaborate with other Data Scientists and developers 
 
-### Connect with me:
+### Contact:
 
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/linkedin.svg" />](https://www.linkedin.com/in/vinnycosta9898/)
-
-[<img align="left" alt="jhon_cabreira | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/5/58/Instagram-Icon.png" />](https://www.instagram.com/vinnycosta9898/)
+[![Twitter Badge](https://img.shields.io/badge/-@vinnycosta9898-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/vinnycosta9898)](https://twitter.com/vinnycosta9898) 
+[![Linkedin Badge](https://img.shields.io/badge/-vinnycosta9898/-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinnycosta9898/)](https://www.linkedin.com/in/vinnycosta9898/) 
+[![Gmail Badge](https://img.shields.io/badge/-viniciuscostadealmeida1998@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciuscostadealmeida1998@gmail.com)](mailto:viniciuscostadealmeida1998@gmail.com)
 
 
 
