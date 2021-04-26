@@ -2,8 +2,6 @@
 
 
 ### Contact:
-
-[![Twitter Badge](https://img.shields.io/badge/-@vinnycosta9898-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/vinnycosta9898)](https://twitter.com/vinnycosta9898) 
 [![Linkedin Badge](https://img.shields.io/badge/-vinnycosta9898/-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinnycosta9898/)](https://www.linkedin.com/in/vinnycosta9898/) 
 [![Gmail Badge](https://img.shields.io/badge/-viniciuscostadealmeida1998@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:viniciuscostadealmeida1998@gmail.com)](mailto:viniciuscostadealmeida1998@gmail.com)
 
