@@ -20,7 +20,16 @@
 
 ---
 
-<img align="left" alt="Jonathan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=vinnycosta9898&show_icons=true&hide_border=true" />
+<p align="left">
+  <img 
+       src="https://github-readme-stats.vercel.app/api?username=vinnycosta9898&show_icons=true"
+       alt="Vinny Costa" 
+       style="max-width:50%; width:50%; background: rgb(0, 0, 0) transparent; background: rgba(0, 0, 0, 0.7);">
+  <img
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinnycosta9898&layout=compact&hide=html" 
+       alt="Valéria Nicéria da Silva"
+       style="max-width:50%; width:50%; background: rgb(0, 0, 0) transparent; background: rgba(0, 0, 0, 0.7);" />
+</p>
 
 [linkedin]: linkedin.com/in/vinnycosta9898/
 [instagram]: https://instagram.com/vinnycosta9898
