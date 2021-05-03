@@ -23,7 +23,7 @@
   <img 
        src="https://github-readme-stats.vercel.app/api?username=vinnycosta9898&show_icons=true"
        alt="Vinny Costa" 
-       style="max-width:50%; width:50%; background: rgb(0, 0, 0) transparent; background: rgba(0, 0, 0, 0.7);">
+       style="max-width:50%; width:50%; background: rgb(0, 0, 0) transparent; background: rgba(0, 0, 0, 0);">
   <br />
   <img/>
 </p>
