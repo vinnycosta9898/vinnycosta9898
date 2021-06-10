@@ -15,7 +15,7 @@
 </div>
 
   
-  ## Languages & Tools:
+  ## Languages:
  
  <div style="display: inline_block"><br>
   
