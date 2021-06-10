@@ -1,4 +1,4 @@
-# Vinicius Costa
+# Vinicius Costa | Data Analyst 
 
 ### Contact:
 [![Linkedin Badge](https://img.shields.io/badge/-vinnycosta9898/-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vinnycosta9898/)](https://www.linkedin.com/in/vinnycosta9898/) 
