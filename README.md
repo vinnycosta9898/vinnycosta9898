@@ -11,10 +11,22 @@
 </div>
 
   
-  ##
+  ## Languages:
  
  <div style="display: inline_block"><br>
-  <img align="center" alt="Vinny-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Vinny-R" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
-  <img align="center" alt="Vinny-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Vinny-Python" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Vinny-R" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center" alt="Vinny-C" height="50" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
+ 
+ # Tools:
+ <div style="display: inline_block"><br>
+  <img align="center" alt="Jupyter" height="50" width="40" src="https://github.com/gilbarbara/logos/blob/master/logos/jupyter.svg">
+  
+  <img align="center" alt="Vinny-C" height="50" width="40" src="https://github.com/gilbarbara/logos/blob/master/logos/git-icon.svg">
+  
+  <img align="center" alt="MySql" height="50" width="40" src="https://github.com/gilbarbara/logos/blob/master/logos/mysql.svg">
+</div>
+ 
+</div>
+
