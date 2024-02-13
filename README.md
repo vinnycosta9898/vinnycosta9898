@@ -7,7 +7,7 @@
 
 - 🔭 I'm looking for new opportunities as a developer
 
-- 👨‍💻 More at [vinnycosta9898.vercel.app](https://viniciuscosta9898.vercel.app)
+- 👨‍💻 More at [vinnycosta9898.vercel.app](https://viniciuscosta1998.vercel.app)
 
 
 
